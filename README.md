@@ -66,7 +66,7 @@ This project aims to create a responsive website for COMMS TECHNOLOGIES, showcas
 - Back-end: (optional) Node.js, Express.js, or other server-side technology
 - Database: (optional) MySQL, MongoDB, or other database management system
 - Deployment: GitHub pages
-- Deployment Link: 
+- Deployment Link:  https://tioluwani-codes.github.io/feb-2025-final-project-and-deployment-Tioluwani-codes/
 
 **Goals**
 - Create a visually appealing and user-friendly website that reflects the company's brand and values
